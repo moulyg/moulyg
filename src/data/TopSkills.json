@@ -1,0 +1,32 @@
+[
+  {
+    "skill": "React JS",
+    "rate": 80,
+    "image": "react.png"
+  },
+  {
+    "skill": "HTML 5",
+    "rate": 80,
+    "image": "html5.png"
+  },
+  {
+    "skill": "CSS 3",
+    "rate": 80,
+    "image": "css3.png"
+  },
+  {
+    "skill": "Java",
+    "rate": 80,
+    "image": "java.png"
+  },
+  {
+    "skill": "Spring boot",
+    "rate": 80,
+    "image": "spring.png"
+  },
+  {
+    "skill": "Javascript",
+    "rate": 80,
+    "image": "js.png"
+  }
+]

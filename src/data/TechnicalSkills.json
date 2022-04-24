@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Programming",
+    "skill": "Java, JavaScript"
+  },
+  {
+    "type": "Java Programming",
+    "skill": "J2EE, Spring, Hibernate, JPA and EJB"
+  },
+  {
+    "type": "Web Programming",
+    "skill": "ReactJS, ES6, JQuery, OO JavaScript, JSON, HTML and CSS"
+  },
+  {
+    "type": "Version Control Systems",
+    "skill": "GIT"
+  },
+  {
+    "type": "Build and Dependency Management Tools",
+    "skill": "Maven, Gulp, Webpack and Bower"
+  },
+  {
+    "type": "Database Servers and Application Servers",
+    "skill": "WildFly, Nodejs, MySQL and Oracle"
+  },
+  {
+    "type": "Hybrid Mobile Application Development",
+    "skill": "React Native"
+  },
+  {
+    "type": "SDLC Methodologies",
+    "skill": "LEAN, Agile, Waterfall"
+  },
+  {
+    "type": "Web Services Development",
+    "skill": "REST"
+  },
+  {
+    "type": "Architecture",
+    "skill": "Design Patterns, Object Oriented Analysis"
+  },
+  {
+    "type": "Deployment",
+    "skill": "Production Environment Preparation, Rancher"
+  },
+  {
+    "type": "Other",
+    "skill": "Database Optimization, Performance improvements in Oracle databases, Jenkins"
+  }
+]

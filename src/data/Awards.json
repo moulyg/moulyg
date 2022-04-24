@@ -1,0 +1,89 @@
+[
+  {
+    "placement": "4th Place",
+    "competition": "Topcoder Open",
+    "year": "2019",
+    "location": "Huston TX, U.S.A",
+    "stream": "QA Competition World Final"
+  },
+  {
+    "placement": "7th Place",
+    "competition": "Topcoder Open",
+    "year": "2019",
+    "location": "Huston TX, U.S.A",
+    "stream": "Development Competition World Final"
+  },
+  {
+    "placement": "1st Place",
+    "competition": "Topcoder Open",
+    "year": "2018",
+    "location": "Dallas TX, U.S.A",
+    "stream": "UI Prototype Competition World Final",
+    "won": true
+  },
+  {
+    "placement": "1st Place",
+    "competition": "Topcoder Open",
+    "year": "2017",
+    "location": "Buffalo NY, U.S.A",
+    "stream": "UI Prototype Competition World Final",
+    "won": true
+  },
+  {
+    "placement": "1st Place",
+    "competition": "Topcoder Open",
+    "year": "2016",
+    "location": "Washington DC, U.S.A",
+    "stream": "UI Prototype Competition World Final",
+    "won": true
+  },
+  {
+    "placement": "3rd Place",
+    "competition": "Topcoder Open",
+    "year": "2015",
+    "location": "Yogyakarta, Indonesia",
+    "stream": "UI Prototype Competition World Final"
+  },
+  {
+    "placement": "10th Place",
+    "competition": "Topcoder Open",
+    "year": "2013",
+    "location": "Washington DC, U.S.A",
+    "stream": "Mod Dash Competition World Final"
+  },
+  {
+    "placement": "157th Place",
+    "competition": "IEEEXtreme 5.0",
+    "year": "2011",
+    "location": "Online",
+    "stream": "On-line coding Competition"
+  },
+  {
+    "placement": "10th Place",
+    "competition": "IEEEXtreme 4.0",
+    "year": "2010",
+    "location": "Online",
+    "stream": "On-line coding Competition"
+  },
+  {
+    "placement": "Best Employee of the Year Award",
+    "competition": "Proavos Pvt Ltd",
+    "year": "2014",
+    "location": "",
+    "stream": ""
+  },
+  {
+    "placement": "Finalist",
+    "competition": "Imagine Cup",
+    "year": "2010",
+    "location": "Sri Lanka",
+    "stream": "Local Finals"
+  },
+  {
+    "placement": "Finalist",
+    "competition": "eHealth",
+    "year": "2010",
+    "location": "Sri Lanka",
+    "stream": "Health @ First Hand"
+  }
+]

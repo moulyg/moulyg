@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "https://moulyg.github.io/moulyg/static/css/main.073c9b0a.css",
-    "main.js": "https://moulyg.github.io/moulyg/static/js/main.dd9ada35.js",
-    "static/js/787.7c4fc8d6.chunk.js": "https://moulyg.github.io/moulyg/static/js/787.7c4fc8d6.chunk.js",
-    "static/media/logo.svg": "https://moulyg.github.io/moulyg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "https://moulyg.github.io/moulyg/index.html",
-    "main.073c9b0a.css.map": "https://moulyg.github.io/moulyg/static/css/main.073c9b0a.css.map",
-    "main.dd9ada35.js.map": "https://moulyg.github.io/moulyg/static/js/main.dd9ada35.js.map",
-    "787.7c4fc8d6.chunk.js.map": "https://moulyg.github.io/moulyg/static/js/787.7c4fc8d6.chunk.js.map"
+    "main.css": "/static/css/main.977f12b8.css",
+    "main.js": "/static/js/main.d7be6612.js",
+    "static/js/787.7c4fc8d6.chunk.js": "/static/js/787.7c4fc8d6.chunk.js",
+    "index.html": "/index.html",
+    "main.977f12b8.css.map": "/static/css/main.977f12b8.css.map",
+    "main.d7be6612.js.map": "/static/js/main.d7be6612.js.map",
+    "787.7c4fc8d6.chunk.js.map": "/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dd9ada35.js"
+    "static/css/main.977f12b8.css",
+    "static/js/main.d7be6612.js"
   ]
 }
