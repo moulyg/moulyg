@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/moulyg/static/css/main.977f12b8.css",
-    "main.js": "/moulyg/static/js/main.d26628d9.js",
+    "main.css": "/moulyg/static/css/main.612235af.css",
+    "main.js": "/moulyg/static/js/main.24fea907.js",
     "static/js/787.7c4fc8d6.chunk.js": "/moulyg/static/js/787.7c4fc8d6.chunk.js",
+    "static/media/profile.png": "/moulyg/static/media/profile.9f808426e25dc057b234.png",
+    "static/media/tech_skills_background.png": "/moulyg/static/media/tech_skills_background.da0d597a890a26e2122d.png",
+    "static/media/intro_background.png": "/moulyg/static/media/intro_background.ad3c4fc8050f4dbf410c.png",
+    "static/media/top_skills_background.png": "/moulyg/static/media/top_skills_background.78337f33844858e17c95.png",
     "index.html": "/moulyg/index.html",
-    "main.977f12b8.css.map": "/moulyg/static/css/main.977f12b8.css.map",
-    "main.d26628d9.js.map": "/moulyg/static/js/main.d26628d9.js.map",
+    "main.612235af.css.map": "/moulyg/static/css/main.612235af.css.map",
+    "main.24fea907.js.map": "/moulyg/static/js/main.24fea907.js.map",
     "787.7c4fc8d6.chunk.js.map": "/moulyg/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.977f12b8.css",
-    "static/js/main.d26628d9.js"
+    "static/css/main.612235af.css",
+    "static/js/main.24fea907.js"
   ]
 }
