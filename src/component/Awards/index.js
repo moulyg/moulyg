@@ -2,9 +2,8 @@ import React from 'react';
 import './style.css';
 import {Col, Row, Timeline, Typography} from "antd";
 import AwardJSON from '../../data/Awards.json';
-import {
-    TrophyFilled
-} from '@ant-design/icons';
+import {TrophyFilled} from '@ant-design/icons';
+
 const {Text} = Typography;
 const Awards = () => {
     return (

@@ -1,5 +1,4 @@
 import React from 'react';
-import SectionHeader from "../component/SectionHeader";
 import Education from "../component/Education";
 import {Layout} from "antd";
 import ReactFullpage from '@fullpage/react-fullpage';
