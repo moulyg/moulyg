@@ -1,4 +1,39 @@
-.main-header {
-    font-size: 20px;
-    color: #00a859;
+.top_skills {
+    background: #007FFF url("../../images/top_skills_background.png") no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.top_skills h4 {
+    display: block;
+    font-weight: 700 !important;
+    font-size: 36px;
+    text-align: left;
+    color: #fff !important;
+}
+
+.top_skills .items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top_skills .item {
+    width: 150px;
+    height: 150px;
+    background: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.top_skills .item img {
+    width: 70px;
+    height: auto;
 }

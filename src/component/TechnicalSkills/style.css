@@ -1,4 +1,48 @@
-.main-header {
-    font-size: 20px;
-    color: #00a859;
+.tech_skills {
+    background: url("../../images/tech_skills_background.png") no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tech_skills h4 {
+    display: block;
+    font-weight: 700 !important;
+    font-size: 36px;
+    text-align: left;
+    color: #007FFF !important;
+}
+
+.tech_skills .items {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 50%;
+}
+
+.tech_skills .item {
+    background: #FFFFFF;
+    box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.16);
+    border-radius: 12px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.tech_skills .item .title {
+    padding: 4px 12px;
+    height: 38px;
+    background: #007FFF;
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;;
+
+}
+
+.tech_skills .item .text {
+    color: #002142;
+    font-size: 14px;
 }

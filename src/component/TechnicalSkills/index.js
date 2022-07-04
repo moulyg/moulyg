@@ -1,21 +1,21 @@
 import React from 'react';
 import './style.css';
-import {Col, List, Row, Timeline, Typography} from "antd";
+import {Typography} from "antd";
 import TechnicalSkillJSON from '../../data/TechnicalSkills.json';
 
 const {Text} = Typography;
 const TechnicalSkills = () => {
     return (
-        <div>
-            <List
-                size="small"
-                bordered
-                dataSource={TechnicalSkillJSON || []}
-                renderItem={item => <List.Item>
-                    <Text strong>{item.type}: </Text>
-                    <Text>{item.skill}</Text>
-                </List.Item>}
-            />
+        <div className="tech_skills">
+            <h4>&lt;Technical Skills&gt;</h4>
+            <div className="items">
+                {(TechnicalSkillJSON || []).map(item => <div className="item">
+                        <div className="title">{item.type}: </div>
+                        <div className="text">{item.skill}</div>
+                    </div>
+                )}
+            </div>
+            <h4>&lt;Technical Skills&gt;</h4>
         </div>
     )
 };
